@@ -1,24 +1,22 @@
-1. Pratishka Khandagale
-    Add more similar pages to the recommended section which should be visible after clicking page no. defined at the bottom.
+# Saraswati College Accommodation System (SCAS)
 
-    Add live functionality in the Select Filters section where user will be able to sort/filter hostel based on room , amenities,area,  etc.
+Welcome to the Saraswati College Accommodation System (SCAS) GitHub repository!
 
-2. Manas 
-    Add live functionality to the search ingine.
+## About SCAS
+SCAS is a platform designed to simplify the process of finding suitable accommodation for students of Saraswati College of Engineering, Navi Mumbai Kharghar. We understand the challenges of locating housing when you're away from home, especially in a new city. SCAS aims to make this process seamless and convenient.
 
-    The user should be able to search based on the location, check in and check out date from the hostels listed in the recommended section.
+## Features
+- **Explore Hostels:** Browse through a curated list of recommended and popular hostels near the college area.
+- **Search Functionality:** Easily find hostels based on location, check-in/check-out dates, and number of guests.
+- **Trending Properties:** Stay updated with trending properties and exclusive offers.
+- **Hostellers Stories:** Read real-life experiences and stories shared by fellow hostelers.
+- **Sharing is Earning:** Discover opportunities to make money by sharing your extra space with others.
 
-3. Leena
-    Create a seperate page liked to the sharing Is Earning Now[Know more] Start making friends button which will direct to a complete new page where students who are already living in the hostels or appertment on rent should be able to showcase the need for a room parter at their places.
+## How to Use
+1. **Clone the Repository:** Clone this repository to your local machine.
+2. **Open index.html:** Open the `index.html` file in your browser to explore the SCAS platform.
 
-4. Mayur
-    Add live functionality to Popular Hostel search bar. Also add more two popular hostel below Navarang hostel. while searing based on check in and check out and no of guest, it should be able to provide the avaliable hostel from those 3 listed hostel.
+## Contact Us
+For any inquiries or assistance, feel free to reach out to us at [engineering.saraswatikharghar.edu.in](https://engineering.saraswatikharghar.edu.in) or contact us directly at `8855977815`.
 
-5. Nikhil and Nausheen
-    create a seperate page liked to all the exclusive and trending properties which should provide more detailed information about the properties.
-
-6. Om
-    Modify the registration page and create a login page.
-
-7. Siddhi
-    Create a footer sticked to all the pages.
+Experience a new level of accommodation ease with Saraswati College Accommodation System – where comfort meets camaraderie.
